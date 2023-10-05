@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/carlos-barrena-react-portfolio/static/css/main.6ccd65a8.css",
-    "main.js": "/carlos-barrena-react-portfolio/static/js/main.c8e8c4f2.js",
+    "main.js": "/carlos-barrena-react-portfolio/static/js/main.9f62aab1.js",
     "static/media/me.jpeg": "/carlos-barrena-react-portfolio/static/media/me.7c337195f98944c76e3a.jpeg",
     "index.html": "/carlos-barrena-react-portfolio/index.html",
     "main.6ccd65a8.css.map": "/carlos-barrena-react-portfolio/static/css/main.6ccd65a8.css.map",
-    "main.c8e8c4f2.js.map": "/carlos-barrena-react-portfolio/static/js/main.c8e8c4f2.js.map"
+    "main.9f62aab1.js.map": "/carlos-barrena-react-portfolio/static/js/main.9f62aab1.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.c8e8c4f2.js"
+    "static/js/main.9f62aab1.js"
   ]
 }
