@@ -1,4 +1,7 @@
 import React from 'react';
+import download from '../../assets/images/download-icon.png';
+
+
 
 export default function Resume() {
   return (
@@ -27,7 +30,7 @@ export default function Resume() {
         tus tincidunt
         </li>
       </ul>
-       <a href="./Carlos-Barrena-Resume.pdf" download><img src="./download-icon.png" alt="download icon"/>Download Resume</a> 
+       <a href="Carlos-Barrena-Resume.pdf" download><img src={download} alt="download icon"/>Download Resume</a> 
     </div>
   );
 }
